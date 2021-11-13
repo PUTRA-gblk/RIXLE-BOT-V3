@@ -32,7 +32,7 @@ global.audio = mediaType.audio
 global.location = mediaType.location
 global.document = mediaType.document
 
-conn.version = [ 2, 2140, 12 ]
+conn.version = [ 2, 2143, 3 ]
 conn.logger.level = "warn"
 conn.browserDescription = ['Rixle Type 3', 'SAFARI', '8.1']
 
